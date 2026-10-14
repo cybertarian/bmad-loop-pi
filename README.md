@@ -70,7 +70,7 @@ assets/
 Install the skill itself (Agent Skills / skills.sh ecosystem):
 
 ```sh
-npx skills add <owner>/bmad-loop-pi -g
+npx skills add cybertarian/bmad-loop-pi -g
 # or drop the folder into your agent's skills dir (pi: ~/.pi/agent/skills/)
 ```
 
